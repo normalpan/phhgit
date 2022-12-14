@@ -1,0 +1,28 @@
+查找本机IP地址 https://www.ip.cn/
+125.120.204.114
+220.191.13.93
+125.120.8.151
+
+1.服务端更改地址
+   D:\cq176\MirServer\gamecenter.exe 程序地址
+2.地址列表更改地址
+   D:\cq176\MirServer\tongyidengluqi\serverlist.txt
+3.上传最新的地址列表
+       上传的网站：http://lb.ruciwan.com/
+20221125   http://lb.kftzy.net/b/1669448536.txt 
+20221129   http://lb.kftzy.net/b/1669740341.txt
+20221201   http://lb.kftzy.net/b/1669949173.txt
+4.复制地址列表的网址，重新生成登录器
+
+
+--传奇私服搭建重点
+1.安装dbc_2000
+   配置dbc
+2.解压服务器
+   不能有中文名
+3.配置服务器
+   服务器设置 地址，数据库别名等信息
+4.配置登录器
+5.外网的话需要穿透防火墙配置
+6.安装配套客户端
+7.生成的登录器复制到客户端目录
